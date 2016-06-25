@@ -3,9 +3,11 @@ var NAVTREE =
   [ "libwebsockets", "index.html", [
     [ "Libwebsockets API introduction", "index.html", null ],
     [ "Notes about building lws", "md_README.build.html", null ],
+    [ "Debugging problems", "md_README.problems.html", null ],
     [ "Notes about lwsws", "md_README.lwsws.html", null ],
     [ "Notes about coding with lws", "md_README.coding.html", null ],
     [ "Notes about generic-sessions Plugin", "md_README.generic-sessions.html", null ],
+    [ "Notes about generic-table", "md_README.generic-table.html", null ],
     [ "Overview of lws test apps", "md_README.test-apps.html", null ],
     [ "Deprecated List", "deprecated.html", null ],
     [ "Modules", "modules.html", "modules" ],
@@ -35,9 +37,9 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"group__context-and-vhost.html#gga41c2d763f78cc248df3b9f8645dbd2a5accc9d0d11d1124a21659586164b0962e",
-"group__smtp.html#ga116be79bf44f9dc2a97f46e051fe4dc0",
-"libwebsockets_8h.html#a9032a3062641d334161c29adcc4fa15d"
+"group__context-and-vhost.html#gga41c2d763f78cc248df3b9f8645dbd2a5ac962efd35abf6c402f9fb14aa14f5016",
+"group__sha.html#ga7b09ab74646266f0b555103b3bb8dfe5",
+"libwebsockets_8h.html#a42394a38f08a97420c98127358cfeedbac8f5f992c6615324108cdf931da903be"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
